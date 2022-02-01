@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AKDGSunBe
+- 👀 I’m interested in FiveM Development
+- 🌱 I’m currently learning how to develop for FiveM in C#
+- 💞️ I’m looking to collaborate on FiveM servers
